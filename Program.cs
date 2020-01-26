@@ -10,6 +10,8 @@ namespace Gites
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
